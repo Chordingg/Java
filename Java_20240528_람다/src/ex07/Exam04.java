@@ -1,0 +1,24 @@
+package ex07;
+
+import java.util.function.Supplier;
+
+@FunctionalInterface
+interface Roll{
+	int roll();
+}
+
+public class Exam04 {
+	
+	public static void main(String[] args) {
+		
+		Roll ro = () -> (int)(Math.random() * 6);
+		
+		System.out.println(ro.roll()); 
+		
+		System.out.println("-----------------------"); 
+		
+		Supplier<Integer> s = () -> (int)(Math.random() * 6);
+		
+		System.out.println(s.get());
+	}
+}
