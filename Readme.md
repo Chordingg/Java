@@ -27,8 +27,8 @@
 <br>
 
 ### 1-1-3. Java SE 구조
-![자바SE구조](./java8.png)
- 
+ ![java8](https://github.com/Chordingg/Java/assets/157094467/fd372cbe-90cc-47f4-abaf-bf64d3bc6d19)
+
 
 JDK(Java Development Kit): 자바 프로그램 개발에 필요한 구성 요소
 JRE(Java Runtime Environment): 자바 프로그램 실행에 필요한 구성 요소
@@ -430,7 +430,8 @@ API는 Application Programming Interface의 약어로, 응용 프로그램 개�
 <br>
 
 ### 7-1-1. JDBC 처리 구조 
-![JDBC처리구조](./jdbc_programming.png)
+![jdbc_programming](https://github.com/Chordingg/Java/assets/157094467/6eabb9f9-7818-423b-a61a-d93ca099db5e)
+
 
 <br> 
 
