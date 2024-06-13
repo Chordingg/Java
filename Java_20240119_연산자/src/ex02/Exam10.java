@@ -31,7 +31,6 @@ public class Exam10 {
 	 
 	 System.out.println("합계 : " + sum );
 	 System.out.println("평균 : " + avg );
-		
 
 	}
 

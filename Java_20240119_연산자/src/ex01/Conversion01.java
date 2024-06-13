@@ -27,8 +27,6 @@ public class Conversion01 {
 		short s3 = (short)i3;
 		System.out.println(i3);
 		System.out.println(s3);
-		
-	
 
 	}
 
